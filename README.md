@@ -449,9 +449,3 @@ Nếu gặp vấn đề:
   - Command Injection
   - Admin Panel
   - Database Setup
-
----
-
-**Developed for ModSecurity Testing | Educational Purpose Only**
-
-**⚠️ USE AT YOUR OWN RISK!**
