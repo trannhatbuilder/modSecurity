@@ -1,9 +1,5 @@
 # Website Test ModSecurity - Hệ thống Phát hiện và Ngăn chặn Xâm nhập
 
-🔒 **Website có chủ ý chứa lỗ hổng bảo mật để test ModSecurity WAF**
-
-⚠️ **CẢNH BÁO: KHÔNG triển khai website này trên môi trường production!**
-
 ---
 
 ## 📋 Mục Lục
