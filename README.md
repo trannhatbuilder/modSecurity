@@ -2,18 +2,6 @@
 
 ---
 
-## 📋 Mục Lục
-
-1. [Giới thiệu](#giới-thiệu)
-2. [Các tính năng đã hoàn thành](#các-tính-năng-đã-hoàn-thành)
-3. [Cấu trúc thư mục](#cấu-trúc-thư-mục)
-4. [Hướng dẫn cài đặt](#hướng-dẫn-cài-đặt)
-5. [Lỗ hổng bảo mật](#lỗ-hổng-bảo-mật)
-6. [Payload test](#payload-test)
-7. [Tài liệu tham khảo](#tài-liệu-tham-khảo)
-
----
-
 ## 🎯 Giới thiệu
 
 Đây là một website PHP đơn giản được thiết kế **CÓ CHỦ ĐÍCH** với nhiều lỗ hổng bảo mật để phục vụ mục đích:
